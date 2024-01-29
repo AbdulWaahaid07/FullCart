@@ -1,0 +1,8 @@
+C:\Users\waaha\source\repos\FullCart\FullCart\bin\Debug\FullCart.dacpac
+C:\Users\waaha\source\repos\FullCart\FullCart\obj\Debug\FullCart.sqlproj.AssemblyReference.cache
+C:\Users\waaha\source\repos\FullCart\FullCart\obj\Debug\Model.xml
+C:\Users\waaha\source\repos\FullCart\FullCart\obj\Debug\refactor.xml
+C:\Users\waaha\source\repos\FullCart\FullCart\obj\Debug\postdeploy.sql
+C:\Users\waaha\source\repos\FullCart\FullCart\obj\Debug\predeploy.sql
+C:\Users\waaha\source\repos\FullCart\FullCart\obj\Debug\FullCart.dll
+C:\Users\waaha\source\repos\FullCart\FullCart\obj\Debug\FullCart.pdb
